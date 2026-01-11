@@ -2,7 +2,8 @@
 
 Search Nouns DAO proposals directly from [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-![screenshot](assets/app.png)
+<img width="1257" height="421" alt="image" src="https://github.com/user-attachments/assets/82dd4592-1e96-469c-8de6-6ad3efd58ec9" />
+
 
 ## About
 
