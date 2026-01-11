@@ -6,7 +6,8 @@
     "Author": "xppaicyber",
     "Version": "1.0.0",
     "Language": "python",
-    "Website": "https://nouncil.club",
-    "IcoPath": "assets/favicon.ico",
+    "UrlSourceCode": "https://github.com/XppaiCyberr/Flow.Launcher.Plugin.NounsProp/tree/main",
+    "UrlDownload": "https://github.com/XppaiCyberr/Flow.Launcher.Plugin.NounsProp/releases/download/v1.0.0/Flow.Launcher.Plugin.NounsProp.zip",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/XppaiCyberr/Flow.Launcher.Plugin.NounsProp@main/assets/favicon.ico",
     "ExecuteFileName": "main.py"
 }
