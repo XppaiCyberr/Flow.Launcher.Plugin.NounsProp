@@ -1,0 +1,12 @@
+{
+    "ID": "NOUNSPROP123456789ABCDEF1234567",
+    "ActionKeyword": "np",
+    "Name": "Nouns Proposal Search",
+    "Description": "Search Nouns DAO proposals and open them on nouncil.club",
+    "Author": "xppaicyber",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://nouncil.club",
+    "IcoPath": "assets/favicon.ico",
+    "ExecuteFileName": "main.py"
+}
